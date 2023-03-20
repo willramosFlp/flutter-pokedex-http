@@ -1,6 +1,6 @@
 # flutter_pokedex_http
 
-A new Flutter project.
+This is a copy of Renato Lucas Mota pokedex (https://github.com/RenatoLucasMota/pokedex_2021) but using Http instead of Dio.
 
 ## Getting Started
 
