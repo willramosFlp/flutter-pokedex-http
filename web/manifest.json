@@ -1,6 +1,6 @@
 {
-    "name": "dummy",
-    "short_name": "dummy",
+    "name": "flutter_pokedex_http",
+    "short_name": "flutter_pokedex_http",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

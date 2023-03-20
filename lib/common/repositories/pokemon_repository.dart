@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:dummy/common/consts/api_consts.dart';
-import 'package:dummy/common/error/failure.dart';
-import 'package:dummy/common/models/pokemon.dart';
+import 'package:flutter_pokedex_http/common/consts/api_consts.dart';
+import 'package:flutter_pokedex_http/common/error/failure.dart';
+import 'package:flutter_pokedex_http/common/models/pokemon.dart';
 
 abstract class IPokemonRepository {
   Future<List<Pokemon>> getAllPokemons();

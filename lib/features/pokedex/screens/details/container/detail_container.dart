@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:dummy/common/error/failure.dart';
-import 'package:dummy/common/models/pokemon.dart';
-import 'package:dummy/common/repositories/pokemon_repository.dart';
-import 'package:dummy/common/widgets/po_error.dart';
-import 'package:dummy/common/widgets/po_loading.dart';
-import 'package:dummy/features/pokedex/screens/details/pages/detail_page.dart';
+import 'package:flutter_pokedex_http/common/error/failure.dart';
+import 'package:flutter_pokedex_http/common/models/pokemon.dart';
+import 'package:flutter_pokedex_http/common/repositories/pokemon_repository.dart';
+import 'package:flutter_pokedex_http/common/widgets/po_error.dart';
+import 'package:flutter_pokedex_http/common/widgets/po_loading.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/details/pages/detail_page.dart';
 
 class DetailArguments {
   DetailArguments({this.index = 0, required this.pokemon});

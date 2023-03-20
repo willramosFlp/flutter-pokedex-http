@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:dummy/common/error/failure.dart';
-import 'package:dummy/common/models/pokemon.dart';
-import 'package:dummy/common/repositories/pokemon_repository.dart';
-import 'package:dummy/features/pokedex/screens/details/container/detail_container.dart';
-import 'package:dummy/features/pokedex/screens/home/pages/home_error.dart';
-import 'package:dummy/features/pokedex/screens/home/pages/home_loading.dart';
-import 'package:dummy/features/pokedex/screens/home/pages/home_page.dart';
+import 'package:flutter_pokedex_http/common/error/failure.dart';
+import 'package:flutter_pokedex_http/common/models/pokemon.dart';
+import 'package:flutter_pokedex_http/common/repositories/pokemon_repository.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/details/container/detail_container.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/home/pages/home_error.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/home/pages/home_loading.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/home/pages/home_page.dart';
 
 class HomeContainer extends StatelessWidget {
   const HomeContainer({

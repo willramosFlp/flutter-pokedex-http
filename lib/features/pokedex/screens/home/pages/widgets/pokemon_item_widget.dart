@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:dummy/common/models/pokemon.dart';
-import 'package:dummy/features/pokedex/screens/details/container/detail_container.dart';
-import 'package:dummy/features/pokedex/screens/home/pages/widgets/type_widget.dart';
+import 'package:flutter_pokedex_http/common/models/pokemon.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/details/container/detail_container.dart';
+import 'package:flutter_pokedex_http/features/pokedex/screens/home/pages/widgets/type_widget.dart';
 
 class PokemonItemWidget extends StatelessWidget {
   const PokemonItemWidget({

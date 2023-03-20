@@ -1,4 +1,4 @@
-# dummy
+# flutter_pokedex_http
 
 A new Flutter project.
 
